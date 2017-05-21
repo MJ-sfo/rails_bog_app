@@ -13,7 +13,8 @@
 
 
   *
+  I don't know why instuctions said to have this commented out. website needs to read this bootstrap file
+  */
   *= require bootstrap-3.3.7.min
   *= require_tree .
   *= require_self
-  */
